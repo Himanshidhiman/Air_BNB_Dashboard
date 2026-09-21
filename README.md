@@ -92,7 +92,7 @@ Hosts like Michael and David stand out with the highest number of reviews, refle
 
 ### 📸 Dashboard Preview
 
-![Airbnb Dashboard Screenshot](INSIGHTS.PNG)
+![Airbnb Dashboard Screenshot](https://github.com/Himanshidhiman/Air_BNB_Dashboard/blob/fe2d35bd39eca8356e99aa12a1020d51dd90f4d0/Screenshot%202026-09-21%20115910.png)
 
 ![Dashboard Screenshot](AIRBNB%2001.PNG)
 
